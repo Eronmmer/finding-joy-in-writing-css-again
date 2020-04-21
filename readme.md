@@ -5,3 +5,7 @@ I haven't written vanilla CSS(pure or whatever you choose to call it) in a while
 ## What's in here?
 
 A couple of frontend implementations(HTML, pure CSS and very little JavaScript) of some designs gotten from [Frontend Mentor](https://frontendmetor.io) 
+
+## Links
+
+- [Social Media Dashboard with theme switcher](https://css-musings.netlify.app/social-media-dashboard-with-theme-switcher)
